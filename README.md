@@ -2,7 +2,7 @@
 
 SM Med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O app deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
 
-O objetivo deste projeto é destacar habilidades em Spring Boot e Java, enfocando no desenvolvimento de Back-End. Por isso, não inclui uma versão móvel.
+O objetivo deste projeto é destacar habilidades em Spring Boot e Java, enfocando no desenvolvimento de Back-End. Por isso, não inclui uma versão mobile.
 
 ---
 
